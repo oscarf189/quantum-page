@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Gotham Bold";
+    src: url(Gotham-Bold.otf);
+  }
+  
+  @font-face {
+    font-family: "Gotham Book";
+    src: url(Gotham-Book.otf);
+  }
+  
+@font-face {
+    font-family: "Gotham Narrow Bold";
+    src: url(GothamNarrow-Bold.otf);
+  }
+  
+@font-face {
+    font-family: "Gotham Narrow Book";
+    src: url(GothamNarrow-Book.otf);
+  }
+  
+@font-face {
+    font-family: "Myriad Pro";
+    src: url(MyriadPro-Regular.otf);
+  }

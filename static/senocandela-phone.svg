@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="230mm"
+   height="123.012mm"
+   viewBox="0 0 230 123.012"
+   version="1.1"
+   id="svg5745"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="senocandela.svg">
+  <defs
+     id="defs5739">
+    <clipPath
+       id="SVGID_2_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_1_"
+         style="overflow:visible"
+         id="use21" />
+    </clipPath>
+    <rect
+       id="SVGID_1_"
+       x="1990.09"
+       y="946.63098"
+       width="1093.535"
+       height="432.58801" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.97622038"
+     inkscape:cx="378.22782"
+     inkscape:cy="152.25696"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g28"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-6.988003)">
+    <g
+       transform="matrix(0.2682492,0,0,0.28417794,-533.8401,-261.94363)"
+       id="g28">
+      <defs
+         id="defs19">
+        <rect
+           id="rect5853"
+           x="1990.09"
+           y="946.63098"
+           width="1093.535"
+           height="432.58801" />
+      </defs>
+      <clipPath
+         id="clipPath5753">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#SVGID_1_"
+           style="overflow:visible"
+           id="use5751" />
+      </clipPath>
+      <g
+         transform="translate(-234.85603,7.5564777e-5)"
+         clip-path="url(#SVGID_2_)"
+         id="g26">
+        <image
+           xlink:href="../../design-files/quantum-web/movil quantum/Links/DSC_0215.JPG"
+           id="image24"
+           transform="matrix(-0.1097,0,0,0.1097,3164.9321,903.8315)"
+           height="6016"
+           width="11524"
+           style="overflow:visible" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#dea639;stroke-width:0.28427899"
+       d="m 122.6908,129.71682 h -0.85064 V 95.181908 c 0,-23.319504 -10.17215,-45.246129 -28.642777,-61.740904 C 74.712577,16.933688 50.132702,7.8427933 23.985391,7.8427933 H 0.18752984 V 6.987743 H 23.985391 c 26.355707,0 51.136336,9.167565 69.776812,25.813967 18.654937,16.65923 28.928307,38.813014 28.928307,62.380198 v 34.534912 z"
+       id="path1330" />
+  </g>
+</svg>

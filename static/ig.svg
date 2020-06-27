@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="ig.svg"
+   id="svg5745"
+   version="1.1"
+   viewBox="0 0 4.5 4.5"
+   height="4.5mm"
+   width="4.5mm">
+  <defs
+     id="defs5739">
+    <clipPath
+       id="SVGID_4_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use927" />
+    </clipPath>
+    <rect
+       id="SVGID_3_"
+       x="1990.1331"
+       y="-117.51"
+       width="1094.546"
+       height="474.207" />
+    <clipPath
+       id="SVGID_6_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use1017"
+         style="overflow:visible"
+         xlink:href="#SVGID_5_" />
+    </clipPath>
+    <circle
+       r="51.238998"
+       cy="2654.2849"
+       cx="2286.6079"
+       id="SVGID_5_" />
+    <clipPath
+       id="SVGID_12_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use1053"
+         style="overflow:visible"
+         xlink:href="#SVGID_11_" />
+    </clipPath>
+    <circle
+       r="51.237999"
+       cy="2654.2849"
+       cx="2774.25"
+       id="SVGID_11_" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="115"
+     inkscape:window-height="787"
+     inkscape:window-width="1251"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="10.701733"
+     inkscape:cx="6.4319629"
+     inkscape:zoom="19.367529"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-732.97444,75.390709)"
+       id="g1290">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1284"
+         d="m 2781.991,-284.838 h -6.294 c -2.896,0 -5.245,2.349 -5.245,5.246 v 6.294 c 0,2.896 2.349,5.245 5.245,5.245 h 6.294 c 2.896,0 5.245,-2.349 5.245,-5.245 v -6.294 c 0,-2.897 -2.348,-5.246 -5.245,-5.246 z m 3.672,11.539 c 0,2.024 -1.647,3.672 -3.671,3.672 h -6.294 c -2.024,0 -3.671,-1.647 -3.671,-3.672 v -6.294 c 0,-2.025 1.647,-3.672 3.671,-3.672 h 6.294 c 2.024,0 3.671,1.647 3.671,3.672 z m 0,0"
+         style="fill:#188a52" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1286"
+         d="m 2778.844,-280.642 c -2.317,0 -4.196,1.879 -4.196,4.196 0,2.317 1.879,4.196 4.196,4.196 2.317,0 4.196,-1.878 4.196,-4.196 0,-2.318 -1.879,-4.196 -4.196,-4.196 z m 0,6.819 c -1.445,0 -2.623,-1.177 -2.623,-2.623 0,-1.447 1.177,-2.623 2.623,-2.623 1.446,0 2.623,1.176 2.623,2.623 0,1.446 -1.177,2.623 -2.623,2.623 z m 0,0"
+         style="fill:#188a52" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1288"
+         d="m 2783.914,-280.957 c 0,0.309 -0.25,0.559 -0.559,0.559 -0.309,0 -0.56,-0.25 -0.56,-0.559 0,-0.309 0.25,-0.56 0.56,-0.56 0.309,10e-4 0.559,0.251 0.559,0.56 z m 0,0"
+         style="fill:#188a52" />
+    </g>
+  </g>
+</svg>

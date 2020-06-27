@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="avishek.svg"
+   id="svg5745"
+   version="1.1"
+   viewBox="0 0 42.5 47"
+   height="47mm"
+   width="42.5mm">
+  <defs
+     id="defs5739">
+    <clipPath
+       id="SVGID_4_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use927" />
+    </clipPath>
+    <rect
+       id="SVGID_3_"
+       x="1990.1331"
+       y="-117.51"
+       width="1094.546"
+       height="474.207" />
+    <clipPath
+       id="SVGID_6_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use1017"
+         style="overflow:visible"
+         xlink:href="#SVGID_5_" />
+    </clipPath>
+    <circle
+       r="51.238998"
+       cy="2654.2849"
+       cx="2286.6079"
+       id="SVGID_5_" />
+    <clipPath
+       id="SVGID_12_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use1053"
+         style="overflow:visible"
+         xlink:href="#SVGID_11_" />
+    </clipPath>
+    <circle
+       r="51.237999"
+       cy="2654.2849"
+       cx="2774.25"
+       id="SVGID_11_" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="115"
+     inkscape:window-height="787"
+     inkscape:window-width="1251"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="95.627613"
+     inkscape:cx="115.02372"
+     inkscape:zoom="2.6004244"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-714.28736,-682.23403)"
+       id="g990">
+      <path
+         inkscape:connector-curvature="0"
+         id="path988"
+         d="m 2774.607,2726.693 v -29.729 c -23.686,0 -42.917,-19.061 -43.201,-42.679 h -29.733 c 0.285,40.038 32.829,72.408 72.934,72.408 z"
+         style="fill:#188a52" />
+    </g>
+    <rect
+       id="rect992"
+       height="9.1429415"
+       width="21.709328"
+       style="fill:none;stroke-width:0.264583"
+       y="35.305378"
+       x="23.139206" />
+    <text
+       style="font-size:3.175px;stroke-width:0.264583"
+       id="text998"
+       x="23.139336"
+       y="38.568356"><tspan
+         id="tspan994"
+         style="font-size:4.51924px;font-family:GothamNarrow-Bold;letter-spacing:0.264583;fill:#188a52;stroke-width:0.264583"
+         y="38.568356"
+         x="23.139336">Avishek</tspan><tspan
+         id="tspan996"
+         style="font-size:4.51924px;font-family:GothamNarrow-Bold;letter-spacing:0.264583;fill:#188a52;stroke-width:0.264583"
+         y="42.875004"
+         x="23.139336">Goel</tspan></text>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-714.28736,-682.23403)"
+       id="g1002">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1000"
+         d="m 2773.637,2579.331 v 29.729 c 23.686,0 42.917,19.06 43.2,42.679 h 29.733 c -0.284,-40.038 -32.828,-72.408 -72.933,-72.408 z"
+         style="fill:#2b2b2c" />
+    </g>
+    <polygon
+       transform="matrix(0.26458333,0,0,0.26458333,-714.28736,-682.23403)"
+       id="polygon1010"
+       points="2796.088,2755.377 2788.868,2748.618 2803.31,2748.618 "
+       style="fill:#c45241" />
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-714.28736,-682.23403)"
+       id="g1060">
+      <defs
+         id="defs1051">
+        <circle
+           r="51.237999"
+           cy="2654.2849"
+           cx="2774.25"
+           id="circle8749" />
+      </defs>
+      <clipPath
+         id="clipPath8710">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           id="use8708"
+           style="overflow:visible"
+           xlink:href="#SVGID_11_" />
+      </clipPath>
+      <g
+         id="g1058"
+         clip-path="url(#SVGID_12_)"
+         transform="translate(-2.441406e-4)">
+        <image
+           sodipodi:absref="/Users/OscarFlores/Desktop/pagina /quantum/nuevos cambios quantum/Links/IMG-0062.JPG"
+           xlink:href="../../quantum/nuevos%20cambios%20quantum/Links/IMG-0062.JPG"
+           id="image1056"
+           transform="matrix(0.0519,0,0,0.0519,2703.9209,2566.4409)"
+           height="3640"
+           width="2706"
+           style="overflow:visible" />
+      </g>
+    </g>
+  </g>
+</svg>

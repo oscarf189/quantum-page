@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="adriana.svg"
+   id="svg5745"
+   version="1.1"
+   viewBox="0 0 42.5 47"
+   height="47mm"
+   width="42.5mm">
+  <defs
+     id="defs5739">
+    <clipPath
+       id="SVGID_4_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use927" />
+    </clipPath>
+    <rect
+       id="SVGID_3_"
+       x="1990.1331"
+       y="-117.51"
+       width="1094.546"
+       height="474.207" />
+    <clipPath
+       id="SVGID_6_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use1017"
+         style="overflow:visible"
+         xlink:href="#SVGID_5_" />
+    </clipPath>
+    <circle
+       r="51.238998"
+       cy="2654.2849"
+       cx="2286.6079"
+       id="SVGID_5_" />
+    <clipPath
+       id="SVGID_10_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use1041"
+         style="overflow:visible"
+         xlink:href="#SVGID_9_" />
+    </clipPath>
+    <circle
+       r="51.237999"
+       cy="2654.2849"
+       cx="2613.5459"
+       id="SVGID_9_" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="115"
+     inkscape:window-height="787"
+     inkscape:window-width="1251"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="80.914094"
+     inkscape:cx="115.02372"
+     inkscape:zoom="2.6004244"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-672.42894,-682.23403)"
+       id="g974">
+      <path
+         inkscape:connector-curvature="0"
+         id="path972"
+         d="m 2615.383,2729.238 v -29.729 c -23.686,0 -42.917,-19.06 -43.201,-42.678 h -29.733 c 0.285,40.038 32.828,72.407 72.934,72.407 z"
+         style="fill:#dea639" />
+    </g>
+    <text
+       style="font-size:3.175px;stroke-width:0.264583"
+       id="text982"
+       x="22.24972"
+       y="38.568356"><tspan
+         id="tspan978"
+         style="font-size:4.51924px;font-family:GothamNarrow-Bold;letter-spacing:0.264583;fill:#188a52;stroke-width:0.264583"
+         y="38.568356"
+         x="22.24972">Adriana</tspan><tspan
+         id="tspan980"
+         style="font-size:4.51924px;font-family:GothamNarrow-Bold;letter-spacing:0.264583;fill:#188a52;stroke-width:0.264583"
+         y="42.875"
+         x="22.24972">Palencia</tspan></text>
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-672.42894,-682.23403)"
+       id="g986">
+      <path
+         inkscape:connector-curvature="0"
+         id="path984"
+         d="m 2612.922,2579.331 v 29.729 c 23.686,0 42.917,19.06 43.2,42.679 h 29.733 c -0.284,-40.038 -32.828,-72.408 -72.933,-72.408 z"
+         style="fill:#c45241" />
+    </g>
+    <polygon
+       transform="matrix(0.26458333,0,0,0.26458333,-672.42894,-682.23403)"
+       id="polygon1008"
+       points="2635.796,2755.377 2628.575,2748.618 2643.017,2748.618 "
+       style="fill:#c45241" />
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-672.42894,-682.23403)"
+       id="g1048">
+      <defs
+         id="defs1039">
+        <circle
+           r="51.237999"
+           cy="2654.2849"
+           cx="2613.5459"
+           id="circle8585" />
+      </defs>
+      <clipPath
+         id="clipPath8548">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           id="use8546"
+           style="overflow:visible"
+           xlink:href="#SVGID_9_" />
+      </clipPath>
+      <g
+         id="g1046"
+         clip-path="url(#SVGID_10_)"
+         transform="translate(-2.441406e-4)">
+        <image
+           sodipodi:absref="/Users/OscarFlores/Desktop/pagina /quantum/nuevos cambios quantum/Links/Captura de Pantalla 2020-04-13 a la(s) 09.23.48.png"
+           xlink:href="../../quantum/nuevos%20cambios%20quantum/Links/Captura%20de%20Pantalla%202020-04-13%20a%20la(s)%2009.23.48.png"
+           id="image1044"
+           transform="matrix(0.0631,0,0,0.0631,2554.625,2603.0454)"
+           height="1930"
+           width="1928"
+           style="overflow:visible" />
+      </g>
+    </g>
+  </g>
+</svg>

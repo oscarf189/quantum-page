@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="fb.svg"
+   id="svg5745"
+   version="1.1"
+   viewBox="0 0 4.5 4.5"
+   height="4.5mm"
+   width="4.5mm">
+  <defs
+     id="defs5739">
+    <clipPath
+       id="SVGID_4_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#SVGID_3_"
+         style="overflow:visible"
+         id="use927" />
+    </clipPath>
+    <rect
+       id="SVGID_3_"
+       x="1990.1331"
+       y="-117.51"
+       width="1094.546"
+       height="474.207" />
+    <clipPath
+       id="SVGID_6_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use1017"
+         style="overflow:visible"
+         xlink:href="#SVGID_5_" />
+    </clipPath>
+    <circle
+       r="51.238998"
+       cy="2654.2849"
+       cx="2286.6079"
+       id="SVGID_5_" />
+    <clipPath
+       id="SVGID_12_">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use1053"
+         style="overflow:visible"
+         xlink:href="#SVGID_11_" />
+    </clipPath>
+    <circle
+       r="51.237999"
+       cy="2654.2849"
+       cx="2774.25"
+       id="SVGID_11_" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="115"
+     inkscape:window-height="787"
+     inkscape:window-width="1251"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="9.337114"
+     inkscape:cx="10.526126"
+     inkscape:zoom="20.170539"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Capa 1">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-738.57659,75.401331)"
+       id="g1294">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1292"
+         d="m 2804.147,-284.838 h -8.362 c -2.3,0 -4.188,1.888 -4.188,4.201 v 8.363 c 0,2.3 1.888,4.188 4.188,4.188 h 8.362 c 2.313,0 4.201,-1.888 4.201,-4.201 v -8.349 c 0,-2.314 -1.888,-4.202 -4.201,-4.202 z m -1.928,8.376 h -1.582 v 5.185 h -1.994 v -5.185 h -1.064 v -2.127 h 0.931 v -0.904 c 0,-0.851 0.426,-2.193 2.221,-2.193 h 1.635 v 1.768 h -1.157 c -0.186,0 -0.438,0.12 -0.438,0.532 v 0.798 h 1.635 z m 0,0"
+         style="fill:#dea639" />
+    </g>
+  </g>
+</svg>
